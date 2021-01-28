@@ -1,1 +1,1 @@
-﻿Merhaba, bunlar benim deneme amaçlı yapmış olduğum projelerdir. 
+﻿Merhaba, bunlar benim deneme amaçlı yapmış olduğum projelerdir :)
