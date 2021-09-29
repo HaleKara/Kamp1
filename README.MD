@@ -1,1 +1,2 @@
-﻿Merhaba, bunlar benim deneme amaçlı yapmış olduğum projelerdir :)
+﻿C# öğrenmek amacıyla yapmış olduğum projelerdir.
+ 
